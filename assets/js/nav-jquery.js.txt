@@ -1,0 +1,5 @@
+$("a").hover(function(){
+
+$(this.data('data-link' = 2 )).addClass("current");
+}, function(){
+$("$this").removeClass("current");});
